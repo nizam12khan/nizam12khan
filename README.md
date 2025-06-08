@@ -10,8 +10,33 @@ I'm a passionate **Ruby and Rails developer** based in Bengaluru. I enjoy buildi
 
 ## 🌟 Featured Projects
 - **[indian-constitution-gem](https://github.com/nizam12khan/indian-constitution-gem)**: A Ruby gem providing structured access to the Indian Constitution, built with clean design patterns.
-- **[stocks-in-the-future](https://github.com/nizam12khan/stocks-in-the-future)**: Contributed RSpec tests for the `CustomOrgLink` model to enhance functionality.
 
+- **[Depot E-commerce Sample App](https://github.com/nizam12khan/Depot)**  
+  A demo store built following *Agile Web Development with Rails*, focusing on Rails fundamentals, RESTful design, and shopping cart functionality.
+
+- **[Only Verified](https://github.com/nizam12khan/only_verified)**  
+  A Twitter-style microblogging app built while learning Rails from the *Michael Hartl Rails Tutorial*, deployed on Heroku.
+
+
+## 🤝 Open Source Contributions
+
+I actively contribute to community projects, especially through the [Ruby for Good](https://rubyforgood.org/) initiative:
+
+- **[stocks-in-the-future](https://github.com/nizam12khan/stocks-in-the-future)**  
+  Contributed RSpec model tests and documentation improvements for nonprofit financial education.
+
+- **[casa](https://github.com/nizam12khan/casa)**  
+  Participated in code reviews and helped with backend improvements in a platform supporting Court Appointed Special Advocates.
+
+## 📚 Background
+
+- Former .NET Developer at Wipro (Client: Charles Schwab & Lloyds Bank)
+- Rails Developer at Brainstorm Force – built SureCart (WordPress-based e-commerce platform)
+- Contributed to the community while also exploring civil services, which has given me a unique problem-solving and communication approach
+
+## 🔄 Career Comeback
+
+After a focused 3-year detour preparing for the UPSC civil services exams, I’m now returning to software development with a renewed passion for Ruby on Rails. I'm actively contributing to open-source projects and sharpening my skills to grow as a backend engineer. This journey has enhanced my discipline, research mindset, and clarity — which I now apply to writing clean, maintainable code.
 
 ## 📫 Get in Touch
 - **Email**: nakhmazin12@gmail.com
