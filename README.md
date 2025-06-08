@@ -20,7 +20,7 @@ I'm a passionate **Ruby and Rails developer** based in Bengaluru. I enjoy buildi
 
 I actively contribute to community projects, especially through the [Ruby for Good](https://rubyforgood.org/) initiative:
 
-- **[stocks-in-the-future](https://github.com/nizam12khan/stocks-in-the-future)** Contributed RSpec model tests and documentation improvements for nonprofit financial education.
+- **[stocks-in-the-future](https://github.com/nizam12khan/stocks-in-the-future)**  Official Contributor to the Stocks-in-the-Future project by Ruby for Good — contributed RSpec test cases, backend enhancements.
 
 - **[casa](https://github.com/nizam12khan/casa)** Participated in code reviews and helped with backend improvements in a platform supporting Court Appointed Special Advocates.
 
