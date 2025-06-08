@@ -11,9 +11,9 @@ I'm a passionate **Ruby and Rails developer** based in Bengaluru. I enjoy buildi
 ## 🌟 Featured Projects
 - **[indian-constitution-gem](https://github.com/nizam12khan/indian_constitution)**: A Ruby gem providing structured access to the Indian Constitution, built with clean design patterns.
 
-- **[Only Verified](https://github.com/nizam12khan/only_verified)**  A Twitter-style microblogging app built while learning Rails from the *Michael Hartl Rails Tutorial*, deployed on Heroku.
+- **[Only Verified](https://github.com/nizam12khan/only_verified)**  A Twitter-style microblogging app built while learning Rails , earlier deployed on Heroku.
 
-- **[Depot E-commerce Sample App](https://github.com/nizam12khan/Depot)** A demo store built following *Agile Web Development with Rails*, focusing on Rails fundamentals, RESTful design, and shopping cart functionality.
+- **[Depot E-commerce Sample App](https://github.com/nizam12khan/Depot)** A demo store built following *Agile Web Development with Rails*, focusing on Rails fundamentals, RESTful design, rails frontend features and shopping cart functionality.
 
 
 ## 🤝 Open Source Contributions
