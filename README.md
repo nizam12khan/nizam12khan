@@ -11,7 +11,7 @@ I'm a passionate **Ruby and Rails developer** based in Bengaluru. I enjoy buildi
 ## 🌟 Featured Projects
 - **[indian-constitution-gem](https://github.com/nizam12khan/indian_constitution)**: A Ruby gem providing structured access to the Indian Constitution, built with clean design patterns.🔭 I plan to build a Hotwire + Turbo-powered Rails app using this gem, transforming the Indian Constitution into an interactive, searchable web application. Think of it as making one of the world's largest legal documents truly developer-friendly and accessible
 
-    ⚡️Surprisingly, it got 71 clones by 48 unique developers in just 10 days — even though it’s still early and minimal. This unexpected traction gives me a lot of enthusiasm to evolve it further.
+    
 
 - **[Only Verified](https://github.com/nizam12khan/only_verified)**  A Twitter-style microblogging app built while learning Rails , earlier deployed on Heroku.
 
