@@ -9,24 +9,20 @@ I'm a passionate **Ruby and Rails developer** based in Bengaluru. I enjoy buildi
 - **Interests**: Open-source development, API design, data structures
 
 ## 🌟 Featured Projects
-- **[indian-constitution-gem](https://github.com/nizam12khan/indian-constitution-gem)**: A Ruby gem providing structured access to the Indian Constitution, built with clean design patterns.
+- **[indian-constitution-gem](https://github.com/nizam12khan/indian_constitution)**: A Ruby gem providing structured access to the Indian Constitution, built with clean design patterns.
 
-- **[Depot E-commerce Sample App](https://github.com/nizam12khan/Depot)**  
-  A demo store built following *Agile Web Development with Rails*, focusing on Rails fundamentals, RESTful design, and shopping cart functionality.
+- **[Only Verified](https://github.com/nizam12khan/only_verified)**  A Twitter-style microblogging app built while learning Rails from the *Michael Hartl Rails Tutorial*, deployed on Heroku.
 
-- **[Only Verified](https://github.com/nizam12khan/only_verified)**  
-  A Twitter-style microblogging app built while learning Rails from the *Michael Hartl Rails Tutorial*, deployed on Heroku.
+- **[Depot E-commerce Sample App](https://github.com/nizam12khan/Depot)** A demo store built following *Agile Web Development with Rails*, focusing on Rails fundamentals, RESTful design, and shopping cart functionality.
 
 
 ## 🤝 Open Source Contributions
 
 I actively contribute to community projects, especially through the [Ruby for Good](https://rubyforgood.org/) initiative:
 
-- **[stocks-in-the-future](https://github.com/nizam12khan/stocks-in-the-future)**  
-  Contributed RSpec model tests and documentation improvements for nonprofit financial education.
+- **[stocks-in-the-future](https://github.com/nizam12khan/stocks-in-the-future)** Contributed RSpec model tests and documentation improvements for nonprofit financial education.
 
-- **[casa](https://github.com/nizam12khan/casa)**  
-  Participated in code reviews and helped with backend improvements in a platform supporting Court Appointed Special Advocates.
+- **[casa](https://github.com/nizam12khan/casa)** Participated in code reviews and helped with backend improvements in a platform supporting Court Appointed Special Advocates.
 
 ## 📚 Background
 
